@@ -1,0 +1,6 @@
+framework module Pods_AR_Floor_Tile {
+  umbrella header "Pods-AR Floor Tile-umbrella.h"
+
+  export *
+  module * { export * }
+}
